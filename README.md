@@ -1,4 +1,4 @@
-# electron-vue-demo
+# JAHC APP
 
 ## Project setup
 ```
