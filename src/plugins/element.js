@@ -1,0 +1,60 @@
+import Vue from 'vue'
+import {
+  Button,
+  Table,
+  TableColumn,
+  Container,
+  Header,
+  Main,
+  Form,
+  FormItem,
+  Input,
+  Select,
+  Option,
+  Footer,
+  Menu,
+  MenuItem,
+  MenuItemGroup,
+  Aside,
+  Row,
+  Col,
+  Card,
+  DatePicker,
+  Pagination,
+  Dialog,
+  RadioGroup,
+  RadioButton,
+  Radio,
+  TimeSelect,
+  Popover,
+  Divider
+} from 'element-ui'
+
+Vue.use(Button)
+Vue.use(Divider)
+Vue.use(Popover)
+Vue.use(TimeSelect)
+Vue.use(Radio)
+Vue.use(RadioGroup)
+Vue.use(RadioButton)
+Vue.use(Dialog)
+Vue.use(DatePicker)
+Vue.use(Table)
+Vue.use(TableColumn)
+Vue.use(Container)
+Vue.use(Header)
+Vue.use(Main)
+Vue.use(Form)
+Vue.use(FormItem)
+Vue.use(Input)
+Vue.use(Select)
+Vue.use(Footer)
+Vue.use(Option)
+Vue.use(Menu)
+Vue.use(MenuItem)
+Vue.use(MenuItemGroup)
+Vue.use(Aside)
+Vue.use(Row)
+Vue.use(Col)
+Vue.use(Card)
+Vue.use(Pagination)
